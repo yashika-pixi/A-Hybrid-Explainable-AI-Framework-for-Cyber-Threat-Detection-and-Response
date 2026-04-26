@@ -31,10 +31,10 @@ The proposed framework works in the following stages:
 
 ## Repository Structure
 
-paper/       Research paper files
-figures/     Diagrams and graphs used in the paper
-data/        Dataset links and dataset description
-src/         Python source code for proposed framework
-notebooks/   Experimental notebook
-results/     Output metrics and result graphs
-docs/        Additional documentation
+paper/          Research paper files
+figures/       Diagrams and graphs used in the paper
+data/          Dataset links and dataset description
+src/           Python source code for proposed framework
+notebooks/     Experimental notebook
+results/       Output metrics and result graphs
+docs/          Additional documentation
