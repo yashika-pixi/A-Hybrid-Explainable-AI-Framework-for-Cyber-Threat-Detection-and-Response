@@ -1,1 +1,19 @@
 
+# Dataset Links
+
+The following benchmark datasets can be used for this research:
+
+1. CSE-CIC-IDS2018  
+   https://registry.opendata.aws/cse-cic-ids2018/
+
+2. CICIDS2017  
+   https://www.unb.ca/cic/datasets/ids-2017.html
+
+3. UNSW-NB15  
+   https://research.unsw.edu.au/projects/unsw-nb15-dataset
+
+4. TON_IoT  
+   https://research.unsw.edu.au/projects/toniot-datasets
+
+5. Bot-IoT  
+   https://research.unsw.edu.au/projects/bot-iot-dataset
